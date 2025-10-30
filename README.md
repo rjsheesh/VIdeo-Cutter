@@ -15,7 +15,7 @@
 
 এই টুলটি `ffmpeg.exe` এবং `ffprobe.exe` ছাড়া চলবে না।
 
-১. **ডাউনলোড:** [FFmpeg Download Page](https://ffmpeg.org/download.html) - এই লিঙ্কে যান।
+১. **ডাউনলোড:** [FFmpeg Download Page](https://github.com/BtbN/FFmpeg-Builds/releases) - এই লিঙ্কে যান।
 ২. **উইন্ডোজের জন্য সহজ উপায়:**
     * [Gyan.dev](https://www.gyan.dev/ffmpeg/builds/) (প্রস্তাবিত) বা [BtbN](https://github.com/BtbN/FFmpeg-Builds/releases) থেকে `essentials` বা `full` build-এর `.zip` ফাইলটি ডাউনলোড করুন। (যেমন: `ffmpeg-6.1.1-essentials_build.zip`)
     * ![Gyan.dev থেকে ডাউনলোডের স্ক্রিনশট](https://i.imgur.com/LNoPo9E.png)
